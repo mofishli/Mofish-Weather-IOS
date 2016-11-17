@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>穿衣</string>
+		<key>icon</key>
+		<string>main_living_item1.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>舒适度</string>
+		<key>icon</key>
+		<string>main_living_item2.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>运动</string>
+		<key>icon</key>
+		<string>main_living_item4.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>感冒</string>
+		<key>icon</key>
+		<string>main_living_item9.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>紫外线</string>
+		<key>icon</key>
+		<string>main_living_item5.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>洗车</string>
+		<key>icon</key>
+		<string>main_living_item3.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>晾晒</string>
+		<key>icon</key>
+		<string>main_living_item7.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>出游</string>
+		<key>icon</key>
+		<string>main_living_item8.png</string>
+	</dict>
+</array>
+</plist>
